@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "TIBR_WORKER": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
